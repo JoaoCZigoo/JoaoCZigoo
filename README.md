@@ -30,4 +30,4 @@ Aqui estão algumas das linguagens e ferramentas com as quais tenho experiência
 
 ## 📱 Entre em contato!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](link-do-seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joao-colonna/)

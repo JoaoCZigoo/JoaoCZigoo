@@ -19,7 +19,7 @@ Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Back-end PHP/Javas
 
 Aqui estão algumas das linguagens e ferramentas com as quais tenho experiência:
 
-- PHP ![Logo PHP](https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png)
+- <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="100" height="100">
 - HTML ![Logo HTML](https://link-para-logo-html-aqui)
 - CSS ![Logo CSS](https://link-para-logo-css-aqui)
 - JavaScript ![Logo JavaScript](https://link-para-logo-javascript-aqui)

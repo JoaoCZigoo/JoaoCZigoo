@@ -1,6 +1,6 @@
 # Olá! Eu sou João Colonna 👋
 
-Sou natural de São Paulo, apaixonado por tecnologia e especialista em desenvolvimento Back-end! 🚀
+Sou um Desenvolvedor apaixonado por tecnologia! 🚀
 
 ## 📚 Formação Acadêmica
 

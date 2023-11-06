@@ -16,7 +16,7 @@ Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Back-end PHP/Javas
 - ⚙️ Manutenção de Sistemas MVC em CodeIgniter e Laravel
 
 
-<h3 align="left">🌐 Tecnologies, languages and tools 🛠</h3>
+<h3 align="left">🌐 Tecnologias, languages and tools 🛠</h3>
 
 ###
 

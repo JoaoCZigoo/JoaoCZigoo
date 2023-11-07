@@ -1,22 +1,25 @@
 # Olá! Eu sou João Colonna 👋
+<!-- <a href="https://github.com/JoaoColonna">
 
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoColonna&layout=compact&theme=github_dark&langs_count=8&card_width=320" />
+</a> -->
 Sou um Desenvolvedor apaixonado por tecnologia! 🚀
 
 ## 📚 Formação Acadêmica
 
-- 🎓 Técnico em Informática pelo Senac
 - 🎓 Cursando o 4º Termo de Análise e Desenvolvimento de Sistemas pela Fatec
+- 🎓 Técnico em Informática pelo Senac
 
 ## 💼 Experiência Profissional
 
 Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Back-end PHP/Javascript, onde atuo com:
 
-- 🕷️ Criação e manutenção de web crawlers (HTTP Requests e API)
+- 🕷️ Criação e manutenção de web crawlers com PHP e Javascript (HTTP Requests e API)
 - 💾 Banco de dados MySQL e manipulação de dados JSON/XML
 - ⚙️ Manutenção de Sistemas MVC em CodeIgniter e Laravel
 
 
-<h3 align="left">🌐 Tecnologias, languages and tools 🛠</h3>
+<h3 align="left">🌐 Tecnologias, linguagens e ferramentas 🛠</h3>
 
 ###
 
@@ -43,28 +46,12 @@ Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Back-end PHP/Javas
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
-  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="40" alt="magento logo"  />
-  <img width="12" /> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" /> -->
- <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" /> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-  <img width="12" /> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" /> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
-  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
@@ -77,9 +64,6 @@ Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Back-end PHP/Javas
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" height="40" alt="yii logo"  />
-  <img width="12" /> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-plain.svg" height="40" alt="zend logo"  /> -->
 </div>
 
 ###

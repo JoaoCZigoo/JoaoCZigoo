@@ -3,12 +3,8 @@
 
    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoColonna&layout=compact&theme=github_dark&langs_count=8&card_width=320" />
 </a> -->
-Sou um Desenvolvedor Web 🚀
-
-## 📚 Formação Acadêmica
-
-- 🎓 Cursando o 4º Termo de Análise e Desenvolvimento de Sistemas pela Fatec
-- 🎓 Técnico em Informática pelo Senac
+- Sou um Desenvolvedor Web 🚀
+- Cursando o 4º Termo de Análise e Desenvolvimento de Sistemas pela Fatec 🎓
 
 ## 💼 Experiência Profissional
 
@@ -17,9 +13,7 @@ Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Back-end PHP/Javas
 - 🕷️ Criação e manutenção de web crawlers com PHP e Javascript (HTTP Requests e API)
 - 💾 Banco de dados MySQL e manipulação de dados JSON/XML
 - ⚙️ Manutenção de Sistemas MVC em CodeIgniter e Laravel
-
-
-<h3 align="left">🌐 Tecnologias, linguagens e ferramentas 🛠</h3>
+<h3 align="left">🌐 Technologies, Languages, and Tools 🛠</h3>
 
 ###
 

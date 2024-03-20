@@ -1,10 +1,13 @@
 # Olá! Eu sou João Colonna 👋
-<!-- <a href="https://github.com/JoaoColonna">
+<a href="https://github.com/JoaoColonna">
+   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoColonna&layout=compact&theme=github_light&langs_count=8&card_width=400"/>
+</a> 
 
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoColonna&layout=compact&theme=github_dark&langs_count=8&card_width=320" />
-</a> -->
+###
+
 - Sou um Desenvolvedor Web 🚀
-- Cursando o 4º Termo de Análise e Desenvolvimento de Sistemas pela Fatec 🎓
+- Desenvolvo soluções para o mercado, utilizando tecnologias baseadas em PHP, como Wordpress e outros frameworks 🧩
+- Cursando o 5º Termo de Análise e Desenvolvimento de Sistemas pela Fatec 🎓
 
 ## 💼 Experiência Profissional
 
@@ -12,8 +15,12 @@ Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Back-end PHP/Javas
 
 - 🕷️ Criação e manutenção de web crawlers com PHP e Javascript (HTTP Requests e API)
 - 💾 Banco de dados MySQL e manipulação de dados JSON/XML
-- ⚙️ Manutenção de Sistemas MVC em CodeIgniter e Laravel
-<h3 align="left">🌐 Technologies, Languages, and Tools 🛠</h3>
+- ⚙️ Manutenção e criação de novas funcionalidade em Sistemas MVC desenvolvidos em CodeIgniter, Laravel e Node.Js
+- 📊 Criação de gráficos utiliando métricas do Prometheus com a ferramenta Grafana dos servidores
+- 🗄️ Servidores Linux com Implementação de Services e Cronjobs
+- ☁️ Integração do AWS - Bucket S3 com projetos
+<!--<h3 align="left">🌐 Technologies, Languages, and Tools 🛠</h3>-->
+<h3 align="left">🌐 Tecnologias, Linguagens e Ferramentas 🛠</h3
 
 ###
 
@@ -40,10 +47,10 @@ Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Back-end PHP/Javas
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/json_logo_icon_168490.png" height="40" alt="json logo"  />
+   <!-- <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/json_logo_icon_168490.png" height="40" alt="json logo"  />
   <img width="12" /> 
     <img src="https://cdn.icon-icons.com/icons2/2790/PNG/512/xml_filetype_icon_177509.png" height="40" alt="xml logo"  />
-  <img width="12" /> 
+  <img width="12" />  -->
 <!--    a  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />

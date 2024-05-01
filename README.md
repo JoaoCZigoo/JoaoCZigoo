@@ -5,8 +5,8 @@
 
 ###
 
-- Sou um Desenvolvedor Web 🚀
-- Desenvolvo soluções para o mercado, utilizando tecnologias baseadas em PHP, como Wordpress e outros frameworks 🧩
+- Sou um Desenvolvedor Full-Stack 🚀
+- Desenvolvo soluções para o mercado, utilizando tecnologias baseadas em PHP, Javascript e outros frameworks 🧩
 - Cursando o 5º Termo de Análise e Desenvolvimento de Sistemas pela Fatec 🎓
 
 ## 💼 Experiência Profissional
@@ -17,8 +17,8 @@ Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Back-end PHP/Javas
 - 💾 Banco de dados MySQL e manipulação de dados JSON/XML
 - ⚙️ Manutenção e criação de novas funcionalidade em Sistemas MVC desenvolvidos em CodeIgniter, Laravel e Node.Js
 - 📊 Criação de gráficos utiliando métricas do Prometheus com a ferramenta Grafana dos servidores
-- 🗄️ Servidores Linux com Implementação de Services e Cronjobs
-- ☁️ Integração do AWS - Bucket S3 com projetos
+- 🗄️ Servidores Linux com Ubuntu Server com Implementação de Services e Cronjobs
+- ☁️ AWS - Bucket S3
 <!--<h3 align="left">🌐 Technologies, Languages, and Tools 🛠</h3>-->
 <h3 align="left">🌐 Tecnologias, Linguagens e Ferramentas 🛠</h3
 
@@ -37,13 +37,13 @@ Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Back-end PHP/Javas
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />

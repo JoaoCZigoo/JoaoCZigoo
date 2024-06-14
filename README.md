@@ -5,17 +5,18 @@
 
 ###
 
-- Sou um Desenvolvedor Full-Stack 🚀
-- Desenvolvo soluções para o mercado, utilizando tecnologias baseadas em PHP, Javascript e outros frameworks 🧩
+- Sou um Desenvolvedor Full-Stack com foco em Back-End 🚀
+- Desenvolvo soluções para o mercado, utilizando tecnologias baseadas em PHP, Javascript e outras ferramentas 🧩
 - Cursando o 5º Termo de Análise e Desenvolvimento de Sistemas pela Fatec 🎓
 
 ## 💼 Experiência Profissional
 
-Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Back-end PHP/Javascript, onde atuo com:
+Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Full-Stack PHP/Javascript, onde atuo com:
 
 - 🕷️ Criação e manutenção de web crawlers com PHP e Javascript (HTTP Requests e API)
-- 💾 Banco de dados MySQL e manipulação de dados JSON/XML
-- ⚙️ Manutenção e criação de novas funcionalidade em Sistemas MVC desenvolvidos em CodeIgniter, Laravel e Node.Js
+- 💾 Banco de dados MySQL e manipulaçãao de dados
+- ⚙️ Manutenção e criação de novas funcionalidade em Sistemas desenvolvidos em CodeIgniter, Laravel e Node.Js
+- :computer: Desenvolvimento de telas dinâmicas com template/bootstrap
 - 📊 Criação de gráficos utiliando métricas do Prometheus com a ferramenta Grafana dos servidores
 - 🗄️ Servidores Linux com Ubuntu Server com Implementação de Services e Cronjobs
 - ☁️ AWS - Bucket S3
@@ -27,13 +28,15 @@ Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Back-end PHP/Javas
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
-  <img width="12" />
   <img src="https://static.cdnlogo.com/logos/l/23/laravel.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" height="40" alt="jquery logo"/>        
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -47,11 +50,6 @@ Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Back-end PHP/Javas
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-   <!-- <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/json_logo_icon_168490.png" height="40" alt="json logo"  />
-  <img width="12" /> 
-    <img src="https://cdn.icon-icons.com/icons2/2790/PNG/512/xml_filetype_icon_177509.png" height="40" alt="xml logo"  />
-  <img width="12" />  -->
-<!--    a  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />

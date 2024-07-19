@@ -5,13 +5,14 @@
 
 ###
 
-- Sou um Desenvolvedor Full-Stack com foco em Back-End 🚀
+- Sou um Desenvolvedor Back-End 🚀
 - Desenvolvo soluções para o mercado, utilizando tecnologias baseadas em PHP, Javascript e outras ferramentas 🧩
-- Cursando o 5º Termo de Análise e Desenvolvimento de Sistemas pela Fatec 🎓
+- Conhecimentos adicionais em Python e .NET (C#, Asp.net e Xamarim)
+- Cursando o último termo de Análise e Desenvolvimento de Sistemas pela Fatec 🎓
 
 ## 💼 Experiência Profissional
 
-Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Full-Stack PHP/Javascript, onde atuo com:
+Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Back-End, onde atuo com:
 
 - 🕷️ Criação e manutenção de web crawlers com PHP e Javascript (HTTP Requests e API)
 - 💾 Banco de dados MySQL e manipulaçãao de dados

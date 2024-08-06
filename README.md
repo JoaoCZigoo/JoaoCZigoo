@@ -5,22 +5,11 @@
 
 ###
 
-- Sou um Desenvolvedor Back-End 🚀
-- Desenvolvo soluções para o mercado, utilizando tecnologias baseadas em PHP, Javascript e outras ferramentas 🧩
-- Conhecimentos adicionais em Python e .NET (C#, Asp.net e Xamarim)
-- Cursando o último termo de Análise e Desenvolvimento de Sistemas pela Fatec 🎓
+- Sou um Desenvolvedor Back-End
+- Desenvolvo soluções para o mercado, utilizando tecnologias baseadas em PHP, Javascript e outras ferramentas
+- Conhecimentos adicionais em Python e .NET Core
+- Cursando o último termo de Análise e Desenvolvimento de Sistemas pela Fatec 
 
-## 💼 Experiência Profissional
-
-Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Back-End, onde atuo com:
-
-- 🕷️ Criação e manutenção de web crawlers com PHP e Javascript (HTTP Requests e API)
-- 💾 Banco de dados MySQL e manipulaçãao de dados
-- ⚙️ Manutenção e criação de novas funcionalidade em Sistemas desenvolvidos em CodeIgniter, Laravel e Node.Js
-- :computer: Desenvolvimento de telas dinâmicas com template/bootstrap
-- 📊 Criação de gráficos utiliando métricas do Prometheus com a ferramenta Grafana dos servidores
-- 🗄️ Servidores Linux com Ubuntu Server com Implementação de Services e Cronjobs
-- ☁️ AWS - Bucket S3
 <!--<h3 align="left">🌐 Technologies, Languages, and Tools 🛠</h3>-->
 <h3 align="left">🌐 Tecnologias, Linguagens e Ferramentas 🛠</h3
 
@@ -51,7 +40,7 @@ Atualmente, trabalho na **Zigoo Imóveis** como Desenvolvedor Back-End, onde atu
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" /> -->
